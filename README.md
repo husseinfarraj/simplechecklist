@@ -1,6 +1,6 @@
 Hey guys! I tried out making a simple checklist to test out my knowledge on react. I also wanted to make a progressive web app and man is it cool. I have so much more to learn but I enjoyed the journey so far. Let me know if anything here is confusing and I'll try my best to get back to you as soon as possible. Onward to more coding adventures!
 
-------------------------------- React comments defualt comments below ----------------------
+------------------------------- React defualt comments below ----------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
